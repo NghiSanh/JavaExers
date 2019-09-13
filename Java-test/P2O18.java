@@ -1,0 +1,27 @@
+
+/**
+ * Write a description of class P2O18 here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class P2O18
+{
+    public static void main(){
+        double s = 5 / 10;
+        System.out.println(s);
+        
+        boolean a = true, b = true;
+        if(a = !b){
+            System.out.print("a is ");
+        }
+        System.out.println(a);
+        
+        for(int i = 0; i < 10; i++){
+            System.out.print(i);
+            if(i < 7) break;
+        }
+        
+        System.out.println(5/2.5);
+    }
+}
