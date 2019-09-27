@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex5prime
+comment0.text=\r\n\ @author\ (Sanh)\r\n\ @version\ (2019/09/27)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ j
+comment2.target=boolean\ isPrime(int[],\ int)
+numComments=3

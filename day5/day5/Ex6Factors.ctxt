@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex6Factors
+comment0.text=\r\n\ @author\ (Sanh)\r\n\ @version\ (2019/09/27)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ a
+comment2.target=boolean\ AreFactors(int,\ int[])
+numComments=3
